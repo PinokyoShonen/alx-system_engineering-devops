@@ -48,3 +48,5 @@ This script reverse its input.
 This script displays all users and their home directories, sorted by users.
 # 23. Empty casks make the most noise
 This script finds all empty files and directories in the current directory and all sub-directories.
+# 24. A gif is worth ten thousand words
+This script lists all the files with a .gif extension in the current directory and all its sub-directories.
