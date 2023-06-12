@@ -18,4 +18,6 @@ The script creates a file named exactly "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
 # 8. Save current state of directory
 The script writes into the file "ls_cwd_content" the result of the command ls -la.
 # 9. Duplicate last line
-This script duplicates the last line of the file iacta. 
+This script duplicates the last line of the file iacta.
+# 10. No more javascript
+This script deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders. 
