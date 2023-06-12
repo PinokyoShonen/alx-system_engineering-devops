@@ -52,3 +52,5 @@ This script finds all empty files and directories in the current directory and a
 This script lists all the files with a .gif extension in the current directory and all its sub-directories.
 # 25. Acrostic
 This script ecodes acrostics that use the first letter of each line.
+# 26. The biggest fan
+This script parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
