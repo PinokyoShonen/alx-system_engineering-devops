@@ -27,3 +27,11 @@ This script converts a number from base 2 to base 10.
 This script prints all possible combinations of two letters, except oo.
 ## 13. Floats
 This script prints a number with two decimal places, followed by a new line.
+## 14. Decimal to Hexadecimal
+This script converts a number from base 10 to base 16.
+## 15. Everyone is a proponent of strong encryption
+This script encodes and decodes text using the rot13 encryption.
+## 16. The eggs of the brood need to be an odd number
+This script prints every other line from the input, starting with the first line.
+## 17. I'm an instant star. Just add water and stir.
+This script adds the two numbers stored in the environment variables WATER and STIR and prints the result.
